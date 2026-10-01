@@ -1,0 +1,505 @@
+text,noise_source,sentiment,severity
+Vehicles create very loud road noise near society.,Traffic,Negative,Low
+Vehicles create moderate road noise near market.,Traffic,Neutral,Medium
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near junction is noticeable during every night.,Traffic,Neutral,Critical
+Traffic near Central Park is noticeable during before sunrise.,Traffic,Neutral,Medium
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near hospital is very loud during at 1 AM.,Traffic,Negative,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near Central Park is noticeable during at 1 AM.,Traffic,Neutral,High
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near junction is unbearable during at 1 AM.,Traffic,Negative,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Vehicles create very loud road noise near hospital.,Traffic,Negative,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Vehicles create noticeable road noise near hospital.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near Central Park is very loud during after midnight.,Traffic,Negative,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near society is noticeable during before sunrise.,Traffic,Neutral,Medium
+Traffic near school is unbearable during before sunrise.,Traffic,Negative,Critical
+Vehicles create excessive road noise near apartment.,Traffic,Negative,High
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Vehicles create noticeable road noise near school.,Traffic,Neutral,High
+Vehicles create unbearable road noise near society.,Traffic,Negative,Critical
+Traffic near junction is continuous during before sunrise.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near school is continuous during after midnight.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near junction is noticeable during before sunrise.,Traffic,Neutral,Medium
+Traffic near apartment is noticeable during every night.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near Central Park is noticeable during in evening.,Traffic,Neutral,Medium
+Traffic near market is continuous during in afternoon.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near school is noticeable during before sunrise.,Traffic,Neutral,High
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Vehicles create excessive road noise near apartment.,Traffic,Negative,High
+Vehicles create continuous road noise near society.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Traffic near apartment is excessive during at 1 AM.,Traffic,Negative,High
+Traffic near junction is noticeable during every night.,Traffic,Neutral,Critical
+Buses and trucks pass with loud engine noise.,Traffic,Negative,Low
+Vehicles create very loud road noise near society.,Traffic,Negative,Low
+Traffic near market is very loud during in afternoon.,Traffic,Negative,Low
+Vehicles create excessive road noise near junction.,Traffic,Negative,High
+Construction drilling happens near Central Park and disturbs residents.,Construction,Negative,Low
+Heavy machinery creates moderate noise at the building site.,Construction,Neutral,Medium
+Construction drilling starts near school and disturbs residents.,Construction,Negative,High
+Construction drilling happens near junction and disturbs residents.,Construction,Negative,Low
+Heavy machinery creates unbearable noise at the building site.,Construction,Negative,Critical
+Construction drilling happens near junction and disturbs residents.,Construction,Negative,Low
+Construction drilling continues near hospital and disturbs residents.,Construction,Negative,Critical
+Construction drilling continues near hospital and disturbs residents.,Construction,Negative,Critical
+Hammering starts in evening near the apartments.,Construction,Neutral,Low
+Hammering starts in evening near the apartments.,Construction,Neutral,Low
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Heavy machinery creates unbearable noise at the building site.,Construction,Negative,Critical
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Construction drilling starts near apartment and disturbs residents.,Construction,Negative,Low
+Construction drilling occurs near apartment and disturbs residents.,Construction,Negative,Low
+Construction drilling continues near junction and disturbs residents.,Construction,Negative,Low
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Construction drilling occurs near market and disturbs residents.,Construction,Negative,Low
+Construction drilling occurs near junction and disturbs residents.,Construction,Negative,Low
+Hammering starts after midnight near the apartments.,Construction,Neutral,Critical
+Construction drilling occurs near market and disturbs residents.,Construction,Negative,Low
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Hammering starts at 1 AM near the apartments.,Construction,Neutral,High
+Hammering starts before sunrise near the apartments.,Construction,Neutral,Low
+Construction drilling continues near market and disturbs residents.,Construction,Negative,Low
+Hammering starts every night near the apartments.,Construction,Neutral,Critical
+Hammering starts at 1 AM near the apartments.,Construction,Neutral,High
+Heavy machinery creates unbearable noise at the building site.,Construction,Negative,Critical
+Heavy machinery creates moderate noise at the building site.,Construction,Neutral,Medium
+Heavy machinery creates very loud noise at the building site.,Construction,Negative,Low
+Construction drilling starts near Central Park and disturbs residents.,Construction,Negative,Low
+Hammering starts every night near the apartments.,Construction,Neutral,Critical
+Construction drilling occurs near society and disturbs residents.,Construction,Negative,Low
+Hammering starts in afternoon near the apartments.,Construction,Neutral,Low
+Hammering starts in evening near the apartments.,Construction,Neutral,Low
+Construction drilling starts near Central Park and disturbs residents.,Construction,Negative,Low
+Hammering starts after midnight near the apartments.,Construction,Neutral,Critical
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Heavy machinery creates moderate noise at the building site.,Construction,Neutral,Medium
+Hammering starts before sunrise near the apartments.,Construction,Neutral,Low
+Hammering starts after midnight near the apartments.,Construction,Neutral,Critical
+Heavy machinery creates moderate noise at the building site.,Construction,Neutral,Medium
+Construction drilling occurs near society and disturbs residents.,Construction,Negative,Low
+Heavy machinery creates continuous noise at the building site.,Construction,Neutral,Critical
+Construction drilling continues near hospital and disturbs residents.,Construction,Negative,Critical
+Construction drilling starts near hospital and disturbs residents.,Construction,Negative,Critical
+Hammering starts at 1 AM near the apartments.,Construction,Neutral,High
+Construction drilling continues near junction and disturbs residents.,Construction,Negative,Low
+Construction drilling starts near apartment and disturbs residents.,Construction,Negative,Low
+Hammering starts every night near the apartments.,Construction,Neutral,Critical
+Heavy machinery creates excessive noise at the building site.,Construction,Negative,High
+Heavy machinery creates very loud noise at the building site.,Construction,Negative,Low
+Construction drilling occurs near apartment and disturbs residents.,Construction,Negative,Low
+Construction drilling continues near hospital and disturbs residents.,Construction,Negative,Critical
+Heavy machinery creates moderate noise at the building site.,Construction,Neutral,Medium
+excessive DJ music near Central Park continues every night.,Loud Music,Negative,Critical
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+unbearable DJ music near apartment continues in evening.,Loud Music,Negative,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+noticeable DJ music near society continues before sunrise.,Loud Music,Neutral,Medium
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+unbearable DJ music near school continues in evening.,Loud Music,Negative,Critical
+continuous DJ music near society continues in evening.,Loud Music,Neutral,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+unbearable DJ music near apartment continues at 1 AM.,Loud Music,Negative,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+moderate DJ music near school continues at 1 AM.,Loud Music,Neutral,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+continuous DJ music near hospital continues after midnight.,Loud Music,Neutral,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+very loud DJ music near hospital continues after midnight.,Loud Music,Negative,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+unbearable DJ music near Central Park continues in afternoon.,Loud Music,Negative,Critical
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+very loud DJ music near market continues in evening.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+unbearable DJ music near Central Park continues after midnight.,Loud Music,Negative,Critical
+excessive DJ music near hospital continues every night.,Loud Music,Negative,Critical
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+very loud DJ music near Central Park continues every night.,Loud Music,Negative,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+excessive DJ music near society continues every night.,Loud Music,Negative,Critical
+very loud DJ music near hospital continues every night.,Loud Music,Negative,Critical
+very loud DJ music near society continues in evening.,Loud Music,Negative,Low
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+continuous DJ music near junction continues after midnight.,Loud Music,Neutral,Critical
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+The wedding band is loud and disturbing nearby homes.,Loud Music,Negative,Low
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+A loudspeaker plays music late and residents cannot sleep.,Loud Music,Negative,High
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates excessive humming noise.,Industrial,Negative,High
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates moderate humming noise.,Industrial,Neutral,Medium
+Factory machinery runs at 1 AM near junction.,Industrial,Neutral,High
+Factory machinery runs in evening near hospital.,Industrial,Neutral,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates very loud humming noise.,Industrial,Negative,Low
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Factory machinery runs before sunrise near junction.,Industrial,Neutral,Low
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Factory machinery runs after midnight near apartment.,Industrial,Neutral,Critical
+A generator creates continuous humming noise.,Industrial,Neutral,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates noticeable humming noise.,Industrial,Neutral,Medium
+Factory machinery runs before sunrise near hospital.,Industrial,Neutral,Critical
+Factory machinery runs in afternoon near school.,Industrial,Neutral,High
+A generator creates excessive humming noise.,Industrial,Negative,High
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates continuous humming noise.,Industrial,Neutral,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Factory machinery runs every night near school.,Industrial,Neutral,Critical
+A generator creates very loud humming noise.,Industrial,Negative,Low
+A generator creates continuous humming noise.,Industrial,Neutral,Critical
+A generator creates excessive humming noise.,Industrial,Negative,High
+A generator creates continuous humming noise.,Industrial,Neutral,Critical
+Factory machinery runs before sunrise near apartment.,Industrial,Neutral,Low
+Factory machinery runs in evening near junction.,Industrial,Neutral,Low
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates excessive humming noise.,Industrial,Negative,High
+A generator creates moderate humming noise.,Industrial,Neutral,Medium
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates unbearable humming noise.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates unbearable humming noise.,Industrial,Negative,Critical
+Factory machinery runs in afternoon near Central Park.,Industrial,Neutral,Low
+Factory machinery runs in evening near hospital.,Industrial,Neutral,Critical
+Factory machinery runs every night near Central Park.,Industrial,Neutral,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+A generator creates very loud humming noise.,Industrial,Negative,Low
+Factory machinery runs at 1 AM near Central Park.,Industrial,Neutral,High
+A generator creates continuous humming noise.,Industrial,Neutral,Critical
+A generator creates very loud humming noise.,Industrial,Negative,Low
+A generator creates noticeable humming noise.,Industrial,Neutral,Medium
+Factory machinery runs in afternoon near Central Park.,Industrial,Neutral,Low
+Factory machinery runs before sunrise near school.,Industrial,Neutral,High
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Continuous machine noise from the plant disturbs residents.,Industrial,Negative,Critical
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near market at 1 AM.,Religious/Event,Neutral,High
+A festival event with speakers continues near school every night.,Religious/Event,Neutral,Critical
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near junction in evening.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near hospital after midnight.,Religious/Event,Neutral,Critical
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+A festival event with speakers continues near Central Park at 1 AM.,Religious/Event,Neutral,High
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near apartment every night.,Religious/Event,Neutral,Critical
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+A festival event with speakers continues near apartment after midnight.,Religious/Event,Neutral,Critical
+A festival event with speakers continues near school every night.,Religious/Event,Neutral,Critical
+A festival event with speakers continues near Central Park at 1 AM.,Religious/Event,Neutral,High
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near school in afternoon.,Religious/Event,Neutral,High
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+A festival event with speakers continues near apartment after midnight.,Religious/Event,Neutral,Critical
+A festival event with speakers continues near junction before sunrise.,Religious/Event,Neutral,Low
+A festival event with speakers continues near society at 1 AM.,Religious/Event,Neutral,High
+A festival event with speakers continues near hospital after midnight.,Religious/Event,Neutral,Critical
+A festival event with speakers continues near apartment before sunrise.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+A festival event with speakers continues near apartment in afternoon.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+A festival event with speakers continues near junction before sunrise.,Religious/Event,Neutral,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Temple prayers use amplification early in the morning.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near hospital before sunrise.,Religious/Event,Neutral,Critical
+A festival event with speakers continues near junction in evening.,Religious/Event,Neutral,Low
+Wedding fireworks create loud noise near the hall.,Religious/Event,Negative,Low
+A festival event with speakers continues near apartment before sunrise.,Religious/Event,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a noticeable party late at night.,Neighbourhood,Neutral,Medium
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a very loud party late at night.,Neighbourhood,Negative,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a excessive party late at night.,Neighbourhood,Negative,High
+Neighbours are having a noticeable party late at night.,Neighbourhood,Neutral,Medium
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone in afternoon.,Neighbourhood,Negative,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone after midnight.,Neighbourhood,Negative,Critical
+Neighbours are having a moderate party late at night.,Neighbourhood,Neutral,Medium
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone in evening.,Neighbourhood,Negative,Low
+A loudspeaker in our society disturbs everyone every night.,Neighbourhood,Negative,Critical
+Neighbours are having a noticeable party late at night.,Neighbourhood,Neutral,Medium
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone every night.,Neighbourhood,Negative,Critical
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone every night.,Neighbourhood,Negative,Critical
+Neighbours are having a continuous party late at night.,Neighbourhood,Neutral,Critical
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a excessive party late at night.,Neighbourhood,Negative,High
+Neighbours are having a very loud party late at night.,Neighbourhood,Negative,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a excessive party late at night.,Neighbourhood,Negative,High
+A loudspeaker in our society disturbs everyone every night.,Neighbourhood,Negative,Critical
+Neighbours are having a excessive party late at night.,Neighbourhood,Negative,High
+Neighbours are having a very loud party late at night.,Neighbourhood,Negative,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+A loudspeaker in our society disturbs everyone after midnight.,Neighbourhood,Negative,Critical
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a moderate party late at night.,Neighbourhood,Neutral,Medium
+A loudspeaker in our society disturbs everyone before sunrise.,Neighbourhood,Negative,Low
+Neighbours are having a noticeable party late at night.,Neighbourhood,Neutral,Medium
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a continuous party late at night.,Neighbourhood,Neutral,Critical
+A loudspeaker in our society disturbs everyone before sunrise.,Neighbourhood,Negative,Low
+Neighbours are having a very loud party late at night.,Neighbourhood,Negative,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a continuous party late at night.,Neighbourhood,Neutral,Critical
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Restaurant crowds are noisy near our apartment.,Neighbourhood,Neutral,Low
+Neighbours are having a moderate party late at night.,Neighbourhood,Neutral,Medium
+Neighbours are having a very loud party late at night.,Neighbourhood,Negative,Low
+Neighbours are having a continuous party late at night.,Neighbourhood,Neutral,Critical
+Neighbours are having a moderate party late at night.,Neighbourhood,Neutral,Medium
+Dogs bark continuously near junction during the night.,Animals,Neutral,Critical
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+Dogs bark continuously near society during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has moderate barking that wakes residents.,Animals,Negative,Medium
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+Dogs bark continuously near hospital during the night.,Animals,Neutral,Critical
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has noticeable barking that wakes residents.,Animals,Negative,Medium
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+Dogs bark continuously near society during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+A kennel has moderate barking that wakes residents.,Animals,Negative,Medium
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has continuous barking that wakes residents.,Animals,Negative,Critical
+Dogs bark continuously near junction during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+Dogs bark continuously near school during the night.,Animals,Neutral,Critical
+A kennel has continuous barking that wakes residents.,Animals,Negative,Critical
+Dogs bark continuously near market during the night.,Animals,Neutral,Critical
+Dogs bark continuously near hospital during the night.,Animals,Neutral,Critical
+A kennel has excessive barking that wakes residents.,Animals,Negative,High
+Dogs bark continuously near school during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+A kennel has moderate barking that wakes residents.,Animals,Negative,Medium
+Dogs bark continuously near society during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+A kennel has unbearable barking that wakes residents.,Animals,Negative,Critical
+Dogs bark continuously near market during the night.,Animals,Neutral,Critical
+Dogs bark continuously near apartment during the night.,Animals,Neutral,Critical
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+A kennel has continuous barking that wakes residents.,Animals,Negative,Critical
+A kennel has excessive barking that wakes residents.,Animals,Negative,High
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+Dogs bark continuously near apartment during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+Dogs bark continuously near market during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+Dogs bark continuously near Central Park during the night.,Animals,Neutral,Critical
+Birds make loud calls early near the park.,Animals,Negative,Low
+Dogs bark continuously near hospital during the night.,Animals,Neutral,Critical
+A kennel has very loud barking that wakes residents.,Animals,Negative,Low
+Birds make loud calls early near the park.,Animals,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the market junction.,Vehicle Horn,Negative,Low
+Cars keep honking in afternoon near the school.,Vehicle Horn,Neutral,High
+Cars keep honking in evening near the school.,Vehicle Horn,Neutral,High
+Drivers use loud horns at the hospital junction.,Vehicle Horn,Negative,Critical
+Cars keep honking before sunrise near the school.,Vehicle Horn,Neutral,High
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking every night near the school.,Vehicle Horn,Neutral,Critical
+Drivers use loud horns at the Central Park junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the market junction.,Vehicle Horn,Negative,Low
+Cars keep honking at 1 AM near the school.,Vehicle Horn,Neutral,High
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking after midnight near the school.,Vehicle Horn,Neutral,Critical
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the Central Park junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the hospital junction.,Vehicle Horn,Negative,Critical
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking in afternoon near the school.,Vehicle Horn,Neutral,High
+Cars keep honking before sunrise near the school.,Vehicle Horn,Neutral,High
+Cars keep honking every night near the school.,Vehicle Horn,Neutral,Critical
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking in afternoon near the school.,Vehicle Horn,Neutral,High
+Drivers use loud horns at the apartment junction.,Vehicle Horn,Negative,Low
+Cars keep honking in evening near the school.,Vehicle Horn,Neutral,High
+Drivers use loud horns at the apartment junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the Central Park junction.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking every night near the school.,Vehicle Horn,Neutral,Critical
+Drivers use loud horns at the school junction.,Vehicle Horn,Negative,High
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking after midnight near the school.,Vehicle Horn,Neutral,Critical
+Cars keep honking before sunrise near the school.,Vehicle Horn,Neutral,High
+Drivers use loud horns at the market junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the school junction.,Vehicle Horn,Negative,High
+Drivers use loud horns at the market junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the Central Park junction.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the junction junction.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the hospital junction.,Vehicle Horn,Negative,Critical
+Drivers use loud horns at the Central Park junction.,Vehicle Horn,Negative,Low
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Cars keep honking after midnight near the school.,Vehicle Horn,Neutral,Critical
+Repeated honking from buses disturbs nearby residents.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the apartment junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the apartment junction.,Vehicle Horn,Negative,Low
+Cars keep honking after midnight near the school.,Vehicle Horn,Neutral,Critical
+Drivers use loud horns at the junction junction.,Vehicle Horn,Negative,Low
+Drivers use loud horns at the school junction.,Vehicle Horn,Negative,High
+Drivers use loud horns at the market junction.,Vehicle Horn,Negative,Low
+Cars keep honking at 1 AM near the school.,Vehicle Horn,Neutral,High
+Cars keep honking in afternoon near the school.,Vehicle Horn,Neutral,High
+Cars keep honking at 1 AM near the school.,Vehicle Horn,Neutral,High
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+An unidentified sound continues before sunrise in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues before sunrise in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues before sunrise in our neighborhood.,Other,Neutral,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+There is continuous noise near Central Park and residents are concerned.,Other,Neutral,Critical
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is moderate noise near apartment and residents are concerned.,Other,Neutral,Medium
+There is continuous noise near Central Park and residents are concerned.,Other,Neutral,Critical
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+Unexpected noise outside disturbs people.,Other,Negative,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is moderate noise near school and residents are concerned.,Other,Neutral,High
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is unbearable noise near Central Park and residents are concerned.,Other,Negative,Critical
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues before sunrise in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues in afternoon in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+An unidentified sound continues after midnight in our neighborhood.,Other,Neutral,Critical
+Unexpected noise outside disturbs people.,Other,Negative,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is excessive noise near market and residents are concerned.,Other,Negative,High
+Unexpected noise outside disturbs people.,Other,Negative,Low
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+An unidentified sound continues in evening in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues after midnight in our neighborhood.,Other,Neutral,Critical
+There is very loud noise near market and residents are concerned.,Other,Negative,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is continuous noise near hospital and residents are concerned.,Other,Neutral,Critical
+There is unbearable noise near Central Park and residents are concerned.,Other,Negative,Critical
+An unidentified sound continues in afternoon in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues at 1 AM in our neighborhood.,Other,Neutral,High
+There is unbearable noise near school and residents are concerned.,Other,Negative,Critical
+An unidentified sound continues after midnight in our neighborhood.,Other,Neutral,Critical
+There is moderate noise near apartment and residents are concerned.,Other,Neutral,Medium
+Unexpected noise outside disturbs people.,Other,Negative,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
+There is unbearable noise near Central Park and residents are concerned.,Other,Negative,Critical
+An unidentified sound continues every night in our neighborhood.,Other,Neutral,Critical
+An unidentified sound continues before sunrise in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues in afternoon in our neighborhood.,Other,Neutral,Low
+There is very loud noise near market and residents are concerned.,Other,Negative,Low
+An unidentified sound continues in evening in our neighborhood.,Other,Neutral,Low
+An unidentified sound continues in evening in our neighborhood.,Other,Neutral,Low
+Unexpected noise outside disturbs people.,Other,Negative,Low
